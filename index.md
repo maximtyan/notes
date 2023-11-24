@@ -10,5 +10,4 @@ permalink: /
 
 here will be some text later...
 
-
-here is the link to [customize]: {% link docs/python-development\venv.md %}
+here is the link to [customize]: {% link docs/python-development/venv.md %}

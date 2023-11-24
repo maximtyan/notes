@@ -4,3 +4,11 @@ theme: just-the-docs
 
 url: https://maximtyan.github.io/notes
 math: katex
+
+# Aux links for the upper right navigation
+aux_links:
+  "About the author":
+    - "https://maximtyan.github.io/cv/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
