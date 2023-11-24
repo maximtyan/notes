@@ -12,3 +12,5 @@ Personal experience about aircraft design, software development and other topics
 [pc configuration](pc-config)
 
 [virtual environment](venv)
+
+[git]: {% link git_setup.md %}
