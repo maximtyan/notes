@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Buttons
+title: Git Commands
 parent: Python Development
-nav_order: 2
 ---
 
 
