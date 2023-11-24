@@ -10,9 +10,9 @@ permalink: /
 
 here will be some text later...
 
-here is the link to [customize](./docs/python/venv.md)
+here is the link to [customize](/docs/python/venv.md)
 
-for the 1st segment ($i=0$),
+for the 1st segment
   
 $$ b_i=\frac{1}{2}\cdot{b_{ref}}\cdot{\frac{{b_i}_{Loc}}{100}} $$
 
