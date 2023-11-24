@@ -3,3 +3,4 @@ description: Personal notes for engineering software development, aircraft desig
 theme: just-the-docs
 
 url: https://maximtyan.github.io/notes
+math: katex
