@@ -14,8 +14,4 @@ here is the link to [customize](/docs/python/venv.md)
 
 for the 1st segment
   
-$$ b_i=\frac{1}{2}\cdot{b_{ref}}\cdot{\frac{{b_i}_{Loc}}{100}} $$
-
-$$ c_i=C_{r}$$
-
-$$ c_{i+1}=c_i\cdot\lambda_i $$
+$$C_L = \frac{2W}{\rho V^2 S_{ref}} $$
