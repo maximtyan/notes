@@ -1,16 +1,11 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "Personal experience about aircraft design, software development and other topics."
+permalink: /
 ---
 
-Personal experience about aircraft design, software development and other topics.
+## Engineering Software Dev
 
-# Engineering Software Dev
-
-[git](git_setup)
-
-[pc configuration](pc-config)
-
-[virtual environment](venv)
-
-[git]: {% link git_setup.md %}
+here will be some text later...

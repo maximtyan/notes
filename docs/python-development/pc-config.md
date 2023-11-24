@@ -4,7 +4,7 @@ title: Advice for PC Configuration
 parent: Python Development
 ---
 
-# Advice for PC configuration
+## Advice for PC configuration
 
 Tips that can make code development little bit easier
 and more efficient regardless of programing language, OS and your
