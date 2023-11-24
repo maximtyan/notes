@@ -7,6 +7,8 @@ Personal experience about aircraft design, software development and other topics
 
 # Engineering Software Dev
 
-[git](git_setup.md)
-[pc configuration](pc-config.md)
-[virtual environment](venv.md)
+[git](git_setup)
+
+[pc configuration](pc-config)
+
+[virtual environment](venv)
