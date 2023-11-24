@@ -13,7 +13,7 @@ git is a version control system
 
 First you need to generate SSH key. The name will be displayed in git when you commit a code.
 
-```git
+```bash
 ssh-keygen -t rsa -b 4096 -C "name"
 ```
 
@@ -21,7 +21,7 @@ press Enter for default settings.
 
 Then setup global account.
 
-```git
+```bash
 git config --global user.name "username"
 git config --global user.email "email"
 ```
@@ -30,20 +30,20 @@ git config --global user.email "email"
 
 Clonning is saving a copy of remote repository to local computer. Navigate to directory where all the source codes are located. Then run the following command. The repository address is available on website of the code (github or gitlab).
 
-```git
+```bash
 git clone git@gitlab.com:user/repository.git
 ```
 
 ## new branch
 
-```git
+```bash
 git checkout -b newLocalBranch
 ```
 
 
 ## push commits to a remote
 
-```git
+```bash
 git push remoteName branchName
 ```
 
@@ -51,14 +51,14 @@ by default the remoteName is origin in 99% of cases
 
 ## merge options
 
-```git
+```bash
 git checkout --ours -- <paths>
 git checkout --theirs -- <paths>
 ```
 
 ## checkout specific file from another branch
 
-```git
+```bash
 git checkout branchName -- filePath
 ```
 
@@ -66,12 +66,12 @@ git checkout branchName -- filePath
 
 discard all the changes
 
-```git
+```bash
 git checkout -- .
 ```
 
 discard only specific file
 
-```git
+```bash
 git checkout -- filePath
 ```
