@@ -8,10 +8,5 @@ permalink: /
 
 ## Engineering Software Dev
 
-here will be some text later...
-
-here is the link to [customize](/docs/python/venv.md)
-
-for the 1st segment
-  
-$$C_L = \frac{2W}{\rho V^2 S_{ref}} $$
+Notes on aircraft design, software development, and other topics based
+on personal experience.
