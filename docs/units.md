@@ -13,22 +13,22 @@ nav_order: 2
 
 ## Base SI Units
 
-$s$ - second, measures time
+$$s$$ - second, measures time
 
-$m$ - meter, measures length
+$$m$$ - meter, measures length
 
-$kg$ - kilogram, measures mass (not weight!)
+$$kg$$ - kilogram, measures mass (not weight!)
 
-$A$ - ampere, electric current
+$$A$$ - ampere, electric current
 
-$K$ - kelvin, thermodynamic temperature
+$$K$$ - kelvin, thermodynamic temperature
 
 ## Derived Units
 
-$J = W\cdot s$ - joule, measures electric energy. Alternative units: `Wh, kWh`
+$$J = W\cdot s$$ - joule, measures electric energy. Alternative units: `Wh, kWh`
 
-$e = J/kg$ - joule per kilogram, measures mass specific energy. Alternative units `Wh/kg`
+$$e = J/kg$$ - joule per kilogram, measures mass specific energy. Alternative units `Wh/kg`
 
-$C = A\cdot s$ - coloumb, measures electric charge. Alternative units: `mAh, Ah`
+$$C = A\cdot s$$ - coloumb, measures electric charge. Alternative units: `mAh, Ah`
 
-$rad/s$ - radian per second, measures angular velocity. Alternative units: `rpm, rps, 1/s, Hz`
+$$rad/s$$ - radian per second, measures angular velocity. Alternative units: `rpm, rps, 1/s, Hz`
