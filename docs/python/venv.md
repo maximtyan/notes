@@ -74,3 +74,9 @@ python -m venv venv
 ## activate
 
 ## deactivate
+
+## Fix activation issue from VSCode
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
