@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Bio / CV
-nav_order: 1
+nav_order: 2
 description: "Personal website"
+has_children: true
 permalink: /
 ---
 
