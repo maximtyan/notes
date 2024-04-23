@@ -1,15 +1,7 @@
-title: Engineering Notes
-description: Personal notes for engineering software development, aircraft design and other related fields
+title: Maxim Tyan - Assistant Professor of Aerospace Engineering
+description: personal website
 theme: just-the-docs
 color_scheme: maxim
 
 url: https://maximtyan.github.io
 math: katex
-
-# Aux links for the upper right navigation
-aux_links:
-  "About the author":
-    - "https://maximtyan.github.io/cv/"
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true

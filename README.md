@@ -1,6 +1,4 @@
-# Engineering Notes
+# Maxim Tyan - personal page
 
-Notes on aircraft design, software development, and other topics based
-on personal experience.
-
-The blog is mainly created to help students and fellow developers.
+This page contains summary of my research, useful notes and other
+information

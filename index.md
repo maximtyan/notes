@@ -6,10 +6,7 @@ description: "Personal experience about aircraft design, software development an
 permalink: /
 ---
 
-## Engineering Software Dev
+## Maxim Tyan
 
-Notes on aircraft design, software development, and other topics based
-on personal experience.
-
-The primary goal of this blog is to organize software development
-guidelines for the **Design Team** of [KADA](https://kadalab.konkuk.ac.kr).
+- Assistant Professor of Aerospace Engineering
+- Konkuk University, Seoul
