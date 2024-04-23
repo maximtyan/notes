@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python Virtual Environment
+title: Virtual Environment
 parent: Python Development
 ---
 
