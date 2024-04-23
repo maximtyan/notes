@@ -6,7 +6,4 @@ description: "Personal experience about aircraft design, software development an
 permalink: /
 ---
 
-## Maxim Tyan
-
-- Assistant Professor of Aerospace Engineering
-- Konkuk University, Seoul
+## Maxim Tyan, Assistant Professor of Aerospace Engineering, Konkuk University, Seoul
