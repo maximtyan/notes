@@ -3,7 +3,6 @@ layout: default
 title: Python Development
 has_children: true
 nav_order: 2
-permalink: /notes/python
 parent: Notes
 ---
 
