@@ -8,10 +8,9 @@ permalink: /
 
 ## Assistant Professor of Aerospace Engineering
 
-![photo](docs/profile-1.jpg)
-
 - [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul, Korea
 - [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
+
 
 ## Qualification
 
