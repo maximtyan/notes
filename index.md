@@ -6,16 +6,16 @@ description: "Personal website"
 permalink: /
 ---
 
-## Maxim Tyan / 장막심 PhD
+## Assistant Professor of Aerospace Engineering
 
-![photo](profile-1.jpg)
+![photo](docs/profile-1.jpg)
 
-Aerospace engineer, Assistant Professor at
-[Konkuk University](http://www.konkuk.ac.kr/do/Index.do)
+- [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul, Korea
+- [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
 
-### Qualification
+## Qualification
 
-#### Technical Skills
+### Technical Skills
 
 * Aircraft design and optimization (Electric aircraft, Hydrogen powered,
   AAM, General Aviation)
