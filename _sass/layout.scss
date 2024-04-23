@@ -20,7 +20,7 @@
     min-width: $nav-width;
   }
 
-  & + .main {
+  &+.main {
     @include mq(md) {
       margin-left: $nav-width-md;
     }
@@ -28,10 +28,8 @@
     @include mq(lg) {
       // stylelint-disable function-name-case
       // disable for Max(), we want to use the CSS max() function
-      margin-left: Max(
-        #{$nav-width},
-        calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width})
-      );
+      margin-left: Max(#{$nav-width},
+        calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}));
       // stylelint-enable function-name-case
     }
 
@@ -168,20 +166,16 @@
 }
 
 .site-title:hover {
-  background-image: linear-gradient(
-    -90deg,
-    rgba($feedback-color, 1) 0%,
-    rgba($feedback-color, 0.8) 80%,
-    rgba($feedback-color, 0) 100%
-  );
+  background-image: linear-gradient(-90deg,
+      rgba($feedback-color, 1) 0%,
+      rgba($feedback-color, 0.8) 80%,
+      rgba($feedback-color, 0) 100%);
 }
 
 .site-button:hover {
-  background-image: linear-gradient(
-    -90deg,
-    rgba($feedback-color, 1) 0%,
-    rgba($feedback-color, 0.8) 100%
-  );
+  background-image: linear-gradient(-90deg,
+      rgba($feedback-color, 1) 0%,
+      rgba($feedback-color, 0.8) 100%);
 }
 
 // stylelint-disable selector-max-type
@@ -207,7 +201,7 @@ body {
   left: 0;
   padding-top: $sp-4;
   padding-bottom: $sp-4;
-  color: $grey-dk-000;
+  color: $grey-dk-200;
   @include fs-2;
 
   @include mq(md) {
