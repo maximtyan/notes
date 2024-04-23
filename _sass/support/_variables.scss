@@ -74,7 +74,7 @@ $spacers: (
   sp-8: $spacing-unit * 3,
   sp-9: $spacing-unit * 3.5,
   sp-10: $spacing-unit * 4,
-) !default;
+  ) !default;
 $sp-1: map-get($spacers, sp-1) !default; // 0.25 rem == 4px
 $sp-2: map-get($spacers, sp-2) !default; // 0.5  rem == 8px
 $sp-3: map-get($spacers, sp-3) !default; // 0.75 rem == 12px
@@ -114,4 +114,4 @@ $media-queries: (
   md: $content-width,
   lg: $content-width + $nav-width,
   xl: 87.5rem,
-) !default;
+  ) !default;
