@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Bio / CV
 nav_order: 1
 description: "Personal website"
 permalink: /
@@ -10,7 +10,6 @@ permalink: /
 
 - [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul, Korea
 - [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
-
 
 ## Qualification
 
