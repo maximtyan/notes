@@ -6,10 +6,10 @@ description: "Personal website"
 permalink: /
 ---
 
-## Maxim Tyan
+# Maxim Tyan
 
-- Assistant Professor of Aerospace Engineering
-- [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul, Korea
+- **Assistant Professor of Aerospace Engineering**
+- [Konkuk University, Seoul, Korea](http://www.konkuk.ac.kr/do/Index.do)
 - [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
 
 ## Qualification
