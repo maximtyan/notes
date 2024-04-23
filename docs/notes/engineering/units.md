@@ -2,10 +2,13 @@
 layout: default
 title: Units
 has_children: false
-nav_order: 2
+nav_order: 1
+parent: Engineering
 ---
 
-[SI units](https://physics.nist.gov/cuu/Units/units.html) must be used by default. If unit other than SI is used, the variable name must indicate it.
+[SI units](https://physics.nist.gov/cuu/Units/units.html) must be used
+by default. If unit other than SI is used, the variable name must
+indicate it.
 
 `mass = 10` - means 10 kg
 

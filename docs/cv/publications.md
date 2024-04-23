@@ -3,7 +3,7 @@ layout: default
 title: Publications
 has_children: false
 nav_order: 2
-parent: Bio / CV
+permalink: /publications
 ---
 
 # Publications

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Writing the Code
-has_children: false
+title: Writing A Program
+has_children: true
 nav_order: 2
+parent: Notes
 ---
 
 > Program development is NOT code development only! Coding is the final stage.
