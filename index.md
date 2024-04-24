@@ -7,7 +7,7 @@ has_children: false
 permalink: /
 ---
 
-# Maxim Tyan
+# Maxim Tyan, 장막심
 
 - Assistant Professor of Aerospace Engineering
 - [Konkuk University, Seoul, Korea](http://www.konkuk.ac.kr/do/Index.do)

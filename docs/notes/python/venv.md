@@ -2,6 +2,7 @@
 layout: default
 title: Virtual Environment
 parent: Python Development
+grand_parent: Notes
 ---
 
 

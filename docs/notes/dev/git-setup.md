@@ -2,6 +2,7 @@
 layout: default
 title: Git Commands
 parent: Software Development
+grand_parent: Notes
 ---
 
 

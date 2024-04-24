@@ -2,6 +2,7 @@
 layout: default
 title: Abbreviations in Variable Names
 parent: Software Development
+grand_parent: Notes
 ---
 
 

@@ -4,6 +4,7 @@ title: Paths and Username
 has_children: false
 nav_order: 2
 parent: Software Development
+grand_parent: Notes
 ---
 
 Tips that can make code development little bit easier

@@ -2,8 +2,8 @@
 layout: default
 title: Writing the Code
 has_children: false
-nav_order: 2
 parent: Software Development
+grand_parent: Notes
 ---
 
 This section relates mostly to Python code.

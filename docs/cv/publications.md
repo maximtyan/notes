@@ -6,7 +6,9 @@ nav_order: 2
 permalink: /publications
 ---
 
-## SCI/SCI(E) Journal Papers
+# Publications
+
+## SCI / SCI(E) Journal Papers
 
 1. Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2015. “Improving Variable-Fidelity Modelling by Exploring Global Design Space and Radial Basis Function Networks for Aerofoil Design.” Engineering Optimization 47 (7): 885–908. <https://doi.org/10.1080/0305215X.2014.941290>.
 2. Tyan, Maxim, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Comprehensive Preliminary Sizing/Resizing Method for a Fixed Wing-VTOL Electric UAV.” Aerospace Science and Technology 71 (December): 30–41. <https://doi.org/10.1016/j.ast.2017.09.008>.
@@ -34,7 +36,7 @@ permalink: /publications
 24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
 25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
 
-## Non SCI Journals
+## Non-SCI Journals
 
 1. Kim, Jimin, Nhu Van Nguyen, Jung-Il Shu, Maxim Tyan, and Jae-Woo Lee. 2013. “UAV Performance Improvement Using Integrated Analysis and Design Optimization Technology.” Journal of the Korean Society for Aviation and Aeronautics 21 (1): 30–38. <https://doi.org/10.12985/ksaa.2013.21.1.030>.
 2. Park, Jinhwan, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2013. “Flap Design Optimization for KLA-100 Aircraft in compliance with Airworthiness Certification.” Journal of the Korean Society for Aeronautical & Space Sciences 41 (8): 649–56. <https://doi.org/10.5139/JKSAS.2013.41.8.649>.

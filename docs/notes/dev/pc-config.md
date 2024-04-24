@@ -2,6 +2,7 @@
 layout: default
 title: Advice for PC Configuration
 parent: Software Development
+grand_parent: Notes
 ---
 
 ## Advice for PC configuration
