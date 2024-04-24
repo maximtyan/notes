@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advice for PC Configuration
-parent: Python Development
+parent: Software Development
 ---
 
 ## Advice for PC configuration

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Commands
-parent: Python Development
+parent: Software Development
 ---
 
 

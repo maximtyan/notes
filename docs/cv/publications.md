@@ -6,8 +6,6 @@ nav_order: 2
 permalink: /publications
 ---
 
-# Publications
-
 ## SCI/SCI(E) Journal Papers
 
 1. Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2015. “Improving Variable-Fidelity Modelling by Exploring Global Design Space and Radial Basis Function Networks for Aerofoil Design.” Engineering Optimization 47 (7): 885–908. <https://doi.org/10.1080/0305215X.2014.941290>.
@@ -36,8 +34,7 @@ permalink: /publications
 24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
 25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
 
-
-### Non SCI Journals
+## Non SCI Journals
 
 1. Kim, Jimin, Nhu Van Nguyen, Jung-Il Shu, Maxim Tyan, and Jae-Woo Lee. 2013. “UAV Performance Improvement Using Integrated Analysis and Design Optimization Technology.” Journal of the Korean Society for Aviation and Aeronautics 21 (1): 30–38. <https://doi.org/10.12985/ksaa.2013.21.1.030>.
 2. Park, Jinhwan, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2013. “Flap Design Optimization for KLA-100 Aircraft in compliance with Airworthiness Certification.” Journal of the Korean Society for Aeronautical & Space Sciences 41 (8): 649–56. <https://doi.org/10.5139/JKSAS.2013.41.8.649>.
@@ -45,9 +42,7 @@ permalink: /publications
 4. Seong, Dong Gyu, Nadhie Juliawan, Maxim Tyan, Sangho Kim, and Jae-Woo Lee. 2020. “Flying-Wing Type UAV Design Optimization for Flight Stability Enhancement.” Journal of Korean Society of Aeronautical and Space Sciences 48 (10): 809–19. <https://doi.org/10.5139/JKSAS.2020.48.10.809>.
 5. Lee, Chiho, Mukyeom Kim, Jae-Lyun Lee, Kwon-Su Jeon, Maxim Tyan, and Jae-Woo Lee. 2021. “Improved VFM Method for High Accuracy Flight Simulation.” Journal of the Korean Society for Aeronautical & Space Sciences 49 (9): 709–19. <https://doi.org/10.5139/JKSAS.2021.49.9.709>.
 
-## Presentations
-
-### Conferences
+## Conferences
 
 1. Tyan, Maxim, Abdulaziz Azamatov, Jae-Woo Lee, Sangho Kim, and Yung-Hwan Byun. 2011b. “Parametric Configuration Model for Light Aircraft.” In 2011 KSAF Spring Conference. Seoul, Korea.
 2. Jeon, Kwon-su, Maxim Tyan, Sung Hyun Jin, Seoung Jun Cho, and Jae-Woo Lee. 2014. “The Multidisciplinary Design Optimization Process and Design Framework Development for the Unmanned Gliding Vehicle.” In 2014 Asia-Pacific International Symposium on Aerospace Technology, APISAT2014.

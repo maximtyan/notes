@@ -3,6 +3,7 @@ layout: default
 title: Writing the Code
 has_children: false
 nav_order: 2
+parent: Software Development
 ---
 
 This section relates mostly to Python code.

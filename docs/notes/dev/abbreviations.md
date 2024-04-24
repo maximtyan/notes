@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abbreviations in Variable Names
-parent: Python Development
+parent: Software Development
 ---
 
 
