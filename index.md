@@ -9,70 +9,72 @@ permalink: /
 
 # Maxim Tyan, 장막심
 
-- **Assistant Professor of Aerospace Engineering**
+- Assistant Professor of Aerospace Engineering
 - [Konkuk University, Seoul, Korea](http://www.konkuk.ac.kr/do/Index.do)
 - [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
 
-# Qualification
+---
 
-## Technical Skills
+## Qualification
 
-* Aircraft design and optimization (Electric aircraft, Hydrogen powered,
+### Technical Skills
+
+- Aircraft design and optimization (Electric aircraft, Hydrogen powered,
   AAM, General Aviation)
-* Multidisciplnary Design Optimization
-* Design Under Uncertainties (Robust Design, Reliability Analysis)
-* Surrogate Modeling
-  * Variable Fidelity Modeling
-  * Sampling Methods (Adaptive, Simulation-based)
-* Flight simulation and control (fixed wing, multicopter, eVTOL,
+- Multidisciplnary Design Optimization
+- Design Under Uncertainties (Robust Design, Reliability Analysis)
+- Surrogate Modeling
+  - Variable Fidelity Modeling
+  - Sampling Methods (Adaptive, Simulation-based)
+- Flight simulation and control (fixed wing, multicopter, eVTOL,
   tilt-x)
-* UAV/UAM Operational Digital Twin System Development
-* Software integration and process automation (CAD, CFD meshing, CFD
+- UAV/UAM Operational Digital Twin System Development
+- Software integration and process automation (CAD, CFD meshing, CFD
   analysis, MAVLink)
-* Software development (Python, C++, Matlab, VBA, glyph)
-  * Integrated aircraft design and analysis framework
-  * 3/6DoF flight simulation (missile, fixed wing, multicopter, eVTOL)
+- Software development (Python, C++, Matlab, VBA, glyph)
+  - Integrated aircraft design and analysis framework
+  - 3/6DoF flight simulation (missile, fixed wing, multicopter, eVTOL)
 
-## Non-technical skills
+### Non-technical skills
 
-* Project planning (prepared and participated in 20+ domestic and
+- Project planning (prepared and participated in 20+ domestic and
   international projects)
-  * search for domestic/international collaboration opportunities
-  * project initialization activities (scheduling, KPI, budgeting, communication)
-  * business talks and government relations
-* Project management (successfully managed teams with up to 30 members)
-  * Team building, work organization and evaluation
-  * DevOps software development process organization
+  - search for domestic/international collaboration opportunities
+  - project initialization activities (scheduling, KPI, budgeting, communication)
+  - business talks and government relations
+- Project management (successfully managed teams with up to 30 members)
+  - Team building, work organization and evaluation
+  - DevOps software development process organization
 
-#### Teaching skills
+### Teaching
 
-* Continuously delivering lectures on the fundamental and the most recent research topics
-* Full course preparation and individual lectures
-* Lecturing in English with easy switching to Korean or Russian
+- Continuously delivering lectures on the fundamental and the most recent research topics
+- Full course preparation and individual lectures
+- Lecturing in English with easy switching to Korean or Russian
 
 ---
 
 ## Education
 
-* 2010-2015, **MSc-PhD**, Konkuk University, Department of Aerospace
+- 2010-2015, **MSc-PhD**, Konkuk University, Department of Aerospace
   Information Engineering, *Seoul, Korea*
-* 2005-2009, **BSc**, Tashkent State Technical University, Department
+- 2005-2009, **BSc**, Tashkent State Technical University, Department
   of Aerospace Engineering, *Tashkent, Uzbekistan*
 
 ## Language Skills
 
-* **Russian**: Native speaker
-* **English**: Full professional proficiency (ILR Level 4)
-* **Korean**: Full professional proficiency (ILR Level 4)
-* **Uzbek**: Elementary proficiency (ILR Level 1)
+- **Russian**: Native speaker
+- **English**: Full professional proficiency (ILR Level 4)
+- **Korean**: Full professional proficiency (ILR Level 4)
+- **Uzbek**: Elementary proficiency (ILR Level 1)
 
 ## Experience
 
-* **Assistant Professor**, Konkuk University, Seoul, Korea, 2024-today
-* **Research professor**, Konkuk University, Seoul, Korea, 2017-2023
-* **Senior researcher**, Konkuk Aerospace Design-Airworthiness
-  Institute, Seoul, Korea, 2010-2017
-* **Manufacturing engineer**, Engineering center "Muhandis-servis" Ltd.,
+- **Assistant Professor**, Konkuk University, Seoul, Korea, since April 2024
+- **Research Professor**, Konkuk University, Seoul, Korea, September 2017 - March 2024
+- **Senior Researcher**, Konkuk Aerospace Design Airworthiness
+  Institute, Seoul, Korea, March 2010 - August 2017
+- **Manufacturing engineer**, Engineering center "Muhandis-servis" Ltd.,
   Tashkent, Uzbekistan, 2007-2010
 
 ## Honors and Awards
