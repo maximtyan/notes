@@ -9,9 +9,11 @@ permalink: /
 
 # Maxim Tyan, 장막심
 
-- Assistant Professor of Aerospace Engineering
-- [Konkuk University, Seoul, Korea](http://www.konkuk.ac.kr/do/Index.do)
-- [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
+{: .fs-9 }
+Assistant professor of aerospace engineering at 
+[Konkuk University](http://www.konkuk.ac.kr/do/Index.do),
+[Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/).
+{: .fs-6 .fw-300 }
 
 # Qualification
 
