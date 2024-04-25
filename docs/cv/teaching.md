@@ -11,9 +11,9 @@ permalink: /teaching
 ## Undergraduate
 
 - Aerospace Capstone Design Project 1, 항공우주종합설계 1
-  - **3463**: 2024 Spring, eVTOL-UAM Aircraft
-  - **3474**: 2023 Spring, Regional Hybrid Hydrogen-Electric Aircraft
-  - **3492**: 2021 Spring, eVTOL-UAM Aircraft
+  - 2024 Spring, eVTOL-UAM Aircraft
+  - 2023 Spring, Regional Hybrid Hydrogen-Electric Aircraft
+  - 2021 Spring, eVTOL-UAM Aircraft
   - TA: 2016 Spring, eVTOL-UAV
 - Aerospace Configuration Design, 항공우주형상설계
   - TA: 2012 Spring, 2012 Fall, 2015 Spring, 2020 Spring
@@ -21,8 +21,8 @@ permalink: /teaching
 ## Graduate
 
 - Optimal Design Basics (최적설계기초)
-  - **5256**: Spring 2019
-  - TA: 2015 Spring, 2013 Fall
+  - Spring 2019
+  - TA: 2013 Fall, 2015 Spring
 - Optimal Design Advanced Course (최적설계특론)
   - TA: 2018 Spring
 - Aircraft Design Project
