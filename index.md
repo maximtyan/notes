@@ -13,8 +13,9 @@ permalink: /
 - [Konkuk University, Seoul, Korea](http://www.konkuk.ac.kr/do/Index.do)
 - [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
 
-[Download CV](/docs/Maxim_Tyan_CV.pdf){: .btn .btn-green }
+[Download CV](/docs/cv/Maxim_Tyan_CV.pdf){: .btn .btn-green }
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=hmtQGt0AAAAJ){: .btn .btn-blue }
+
 ---
 
 ## Qualification
