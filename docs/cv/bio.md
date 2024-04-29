@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Biography
+title: Bio / CV
 nav_order: 2
 description: "Biography"
 has_children: false
 permalink: /bio
 ---
+
+[Download CV](/docs/cv/Maxim_Tyan_CV.pdf){: .btn .btn-green }
 
 ## Education
 
@@ -75,3 +77,9 @@ permalink: /bio
 5. "Programing in Matlab", 2016
 6. "OOP and Python Programing", 2016
 7. "Aircraft Configuration Design", 2012, 2015, 2019, 2020, 2023
+
+## Links
+
+- [ORCID](https://orcid.org/0000-0001-5076-7689): 0000-0001-5076-7689
+- [LinkedIN](https://www.linkedin.com/in/maximtyan/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=hmtQGt0AAAAJ)
