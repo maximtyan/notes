@@ -54,3 +54,10 @@ permalink: /
 - Continuously delivering lectures on the fundamental and the most recent research topics
 - Full course preparation and individual lectures
 - Lecturing in English with easy switching to Korean or Russian
+
+
+## Links
+
+- [ORCID](https://orcid.org/0000-0001-5076-7689): 0000-0001-5076-7689
+- [LinkedIN](https://www.linkedin.com/in/maximtyan/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=hmtQGt0AAAAJ)
