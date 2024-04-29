@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 has_children: false
+description: "Publications"
 nav_order: 3
 permalink: /publications
 ---

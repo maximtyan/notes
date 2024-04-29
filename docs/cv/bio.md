@@ -2,7 +2,7 @@
 layout: default
 title: Bio / CV
 nav_order: 2
-description: "Biography"
+description: "Bio / CV"
 has_children: false
 permalink: /bio
 ---
