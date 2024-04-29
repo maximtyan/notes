@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 has_children: false
-nav_order: 2
+nav_order: 3
 permalink: /publications
 ---
 
@@ -35,6 +35,15 @@ permalink: /publications
 23. Lee, Jae Lyun, Maxim Tyan, Do Youn Kwon, Jae-Woo Lee. 2023. "Enhanced Calibration and Performance Prediction Method for Entire Propulsion System of eVTOL UAV", IEEE Transactions on Transportation Electrification. <https://doi.org/10.1109/TTE.2023.3326382>
 24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
 25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
+
+## Patents
+
+1. Lee, Jae-Woo, Maxim Tyan, and Nhu Van Nguyen. 2017. 강건 최적 설계 시스템, 방법 및 컴퓨터 판독 가능한 기록매체. KR101783015B1, filed May 25, 2016, and issued October 23, 2017. <https://patents.google.com/patent/KR101783015B1>
+2. Lee, Jae-Woo, Jae-Hyun An, Maxim Tyan, Do Youn Kwon, and Kwonsu Jeon. 2022. 수소연료전지를 적용한 무인기 초기 설계를 위한 사이징 방법 및 장치. 10-2022-0088895, filed July 19, 2022, and issued July 19, 2022.
+3. Aye Aye Maw, Maxim Tyan, Jae-Woo Lee, and Kwonsu Jeon. 2022. 무인이동체를 위한 인공지능 기반의 경로 재계획 방법 및 장치. KR102434949B1, filed January 13, 2021, and issued August 26, 2022. <https://patents.google.com/patent/KR102434949B1>
+4. Tyan, Maxim, LV Thang Nguyen, Aye Aye Maw, Gu Moon Jeong, Jae-Woo Lee, and Chiho Lee. 2022.  High-precision flight simulation device and method of evtol vehicle equipped with electric propulsion system. KR20220152424A, filed May 6, 2021, and issued March 29, 2023. <https://patents.google.com/patent/KR20220152424A>
+5. Nguyen, LV Thang, Maxim Tya, Jae-Woo Lee, and Kwonsu Jeon. 2022. 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치. World Intellectual Property Organization WO2022145759A1, filed December 1, 2021, and issued July 7, 2022. <https://patents.google.com/patent/WO2022145759A1>
+6. Nguyen, LV Thang, Maxim Tyan, Jae-Woo Lee, and Kwon-Su Jeon. 2022. Method and device for improving accuracy of six-degree-of-freedom flight simulation by using flight test data. KR20220096658A, filed December 31, 2020, and issued July 7, 2022. <https://patents.google.com/patent/KR20220096658A/en>.
 
 ## Non-SCI Journals
 
