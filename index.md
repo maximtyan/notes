@@ -55,7 +55,6 @@ permalink: /
 - Full course preparation and individual lectures
 - Lecturing in English with easy switching to Korean or Russian
 
-
 ## Links
 
 - [ORCID](https://orcid.org/0000-0001-5076-7689): 0000-0001-5076-7689
