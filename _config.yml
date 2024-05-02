@@ -3,6 +3,8 @@ description: Aerospace Engineer
 theme: just-the-docs
 color_scheme: maxim
 
+kramdown:
+  math_engine: katex
+
 url: https://maximtyan.github.io
-math: katex
 search_enabled: false
