@@ -10,27 +10,6 @@ grand_parent: Notes
 
 [official page](http://web.mit.edu/drela/Public/web/xfoil/)
 
-- Viscous (or inviscid) analysis of an existing airfoil, allowing
-  - forced or free transition
-  - transitional separation bubbles
-  - limited trailing edge separation
-  - lift and drag predictions just beyond CLmax
-  - Karman-Tsien compressibility correction
-  - fixed or varying Reynolds and/or Mach numbers
-- Airfoil design and redesign by interactive modification of surface speed distributions, in two methods:
-  - Full-Inverse method, based on a complex-mapping formulation
-  - Mixed-Inverse method, an extension of XFOIL's basic panel method
-- Airfoil redesign by interactive modification of geometric parameters such as
-  - max thickness and camber, highpoint position
-  - LE radius, TE thickness
-  - camber line via geometry specification
-  - camber line via loading change specification
-  - flap deflection
-  - explicit contour geometry (via screen cursor)
-- Blending airfoils
-- Writing and reading of airfoil coordinates and polar save files
-- Plotting of geometry, pressure distributions, and multiple polars
-
 ## Interface
 
 - XFOIL is an interactive program for the design and analysis of
