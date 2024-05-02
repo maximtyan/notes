@@ -5,7 +5,7 @@ has_children: false
 nav_order: 1
 parent: Engineering
 grand_parent: Notes
-katex: True
+math: True
 ---
 
 [SI units](https://physics.nist.gov/cuu/Units/units.html) must be used
