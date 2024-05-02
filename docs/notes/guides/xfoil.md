@@ -3,6 +3,7 @@ layout: default
 title: XFOIL Airfoil Analysis Guide
 has_children: false
 parent: Guides
+grand_parent: Notes
 ---
 
 # XFOIL Airfoil Analysis
