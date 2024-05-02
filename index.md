@@ -59,9 +59,9 @@ permalink: /
 
 ## Contacts
 
-maxim@konkuk.ac.kr
+[maxim@konkuk.ac.kr](mailto:maxim@konkuk.ac.kr)
 
-[Heavy Equipment Building 204 | 중장비동 204호](https://naver.me/xB4TNarT)
+[중장비동 204호 (Heavy Equipment Building 204)](https://naver.me/xB4TNarT)
 
 ## Links
 
