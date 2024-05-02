@@ -12,9 +12,7 @@ permalink: /guides
 Collection of guidelines, manuals and other materials for various
 software and services.
 
-## XFOIL - interactive airfoil analysis tool
-
-- [guide](/docs/notes/guides/xfoil.pdf)
+[XFOIL](/docs/notes/guides/xfoil)
 
 ## AVL - aerodynamic analysis tool
 
