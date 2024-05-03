@@ -57,11 +57,11 @@ permalink: /
 ## Contacts
 
 - [maxim@konkuk.ac.kr](mailto:maxim@konkuk.ac.kr)
-- [Heavy Equipment Building (중장비동) 204](https://naver.me/xB4TNarT)
+- [Heavy Equipment Building 204 (중장비동 204호)](https://naver.me/xB4TNarT)
 
 ## Links
 
+- [Download CV](/docs/cv/Maxim_Tyan_CV.pdf)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=hmtQGt0AAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5076-7689)
 - [LinkedIN](https://www.linkedin.com/in/maximtyan/)
-
