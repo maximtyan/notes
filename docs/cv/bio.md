@@ -7,13 +7,19 @@ has_children: false
 permalink: /bio
 ---
 
-
 ## Education
 
-- 2010-2015, **MSc-PhD**, Konkuk University, Department of Aerospace
-  Information Engineering, *Seoul, Korea*
-- 2005-2009, **BSc**, Tashkent State Technical University, Department
-  of Aerospace Engineering, *Tashkent, Uzbekistan*
+- 2010-2015, **PhD** (Integrated MSc-PhD Course), **Konkuk University**, Department of Aerospace Information Engineering, Seoul, Korea
+- 2005-2009, **BSc**, **Tashkent State Technical University**, Department
+  of Aerospace Engineering, Tashkent, Uzbekistan
+
+## Work Experience
+
+- Apr 2024 - Present: **Assistant Professor, Konkuk University**, Seoul, Korea
+- Sep 2017 - Mar 2024: **Research Professor, Konkuk University**, Seoul, Korea
+- Mar 2010 - Aug 2017: **Senior Researcher, Aerospace Design Airworthiness
+  Institute**, Seoul, Korea
+- Jan 2007 - Feb 2010: **Manufacturing Engineer, Engineering center "Muhandis-servis" Ltd.**, Tashkent, Uzbekistan
 
 ## Language Skills
 
@@ -22,37 +28,27 @@ permalink: /bio
 - **Korean**: Full professional proficiency (ILR Level 4)
 - **Uzbek**: Elementary proficiency (ILR Level 1)
 
-## Experience
+## Awards
 
-- **Assistant Professor**, Konkuk University, Seoul, Korea, since April 2024
-- **Research Professor**, Konkuk University, Seoul, Korea, September 2017 - March 2024
-- **Senior Researcher**, Konkuk Aerospace Design Airworthiness
-  Institute, Seoul, Korea, March 2010 - August 2017
-- **Manufacturing engineer**, Engineering center "Muhandis-servis" Ltd.,
-  Tashkent, Uzbekistan, 2007-2010
-
-## Honors and Awards
-
-* **Best paper award**, Le Viet Thang Nguyen, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, Jae-Woo Lee: "Development of a Validation Procedure for JSBSim Flight Dynamic Model Using Light Aircraft Flight Test Data", 2017 Korean Society for Aeronautical and Space Sciences Spring Conference, Gangwon-do, Korea; April 2017
-* **Best paper award**, Yungki Jung, Nadhie Juliawan, Nhu Van Nguyen, Maxim Tyan, Sangho Kim, and Jae-Woo Lee, “Ducted Fan Shape Optimization using Genetic Algorithm”, 2016 Korean Society for Aeronautical and Space Sciences Fall Conference, Jeju, Korea, November 2016
-* **Konkuk academy award**, 2015
-* **Brain Korea 21 Scholarship**, 2010-2013
-* **Best paper award**, Won, Woon Jae, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee. 2022. “EVTOL 항공기의 착륙장치 지상하중해석 기법 연구.” In Proceedings of the Spring Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
-
----
+- **Best paper award**, Won, Woon Jae, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee. 2022. “EVTOL 항공기의 착륙장치 지상하중해석 기법 연구.” In Proceedings of the Spring Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
+- **Best paper award**, Le Viet Thang Nguyen, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, Jae-Woo Lee: "Development of a Validation Procedure for JSBSim Flight Dynamic Model Using Light Aircraft Flight Test Data", 2017 Korean Society for Aeronautical and Space Sciences Spring Conference, Gangwon-do, Korea; April 2017
+- **Best paper award**, Yungki Jung, Nadhie Juliawan, Nhu Van Nguyen, Maxim Tyan, Sangho Kim, and Jae-Woo Lee, “Ducted Fan Shape Optimization using Genetic Algorithm”, 2016 Korean Society for Aeronautical and Space Sciences Fall Conference, Jeju, Korea, November 2016
+- **Konkuk Academy Award**, 2015
+- **Brain Korea 21 Scholarship**, 2010-2013
 
 ## Projects
 
-* 20+ International and Domestic (Korean) projects
-* Total project funding: over USD 25M
-* Funded by
-  * European partnership programs (Eurostars, XECS)
-  * Korean government (NRF, MOLIT, MOE)
-  * Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI, etc.)
-* Roles
-  * Project initiator
-  * Project manager
-  * Senior researcher
+- 20+ International and Domestic (Korean) projects
+- Total project funding: over USD 25M
+- Funded by
+  - European partnership programs (Eurostars, Eureka Clusters: XECS)
+  - Korean government (National Research Foundation, Ministry of Land Infrastructure and Transport, Ministry of Education)
+  - Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI, etc.)
+- Roles
+  - Project initiator
+  - Project manager
+  - Research team leader
+  - Researcher
 
 ## Lecturing
 
