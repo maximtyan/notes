@@ -7,7 +7,6 @@ has_children: false
 permalink: /bio
 ---
 
-[Download CV](/docs/cv/Maxim_Tyan_CV.pdf){: .btn .btn-green }
 
 ## Education
 
