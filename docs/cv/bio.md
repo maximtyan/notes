@@ -7,6 +7,8 @@ has_children: false
 permalink: /bio
 ---
 
+[Download CV](/docs/cv/Maxim_Tyan_CV.pdf){: .btn .btn-green }
+
 ## Education
 
 - 2010-2015, **MSc-PhD**, Konkuk University, Department of Aerospace
