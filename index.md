@@ -13,8 +13,7 @@ permalink: /
 - [Konkuk University, Seoul, Korea](http://www.konkuk.ac.kr/do/Index.do)
 - [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
 
-[Download CV](/docs/cv/Maxim_Tyan_CV.pdf){: .btn .btn-green }
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=hmtQGt0AAAAJ){: .btn .btn-blue }
+[Download CV](/docs/cv/Maxim_Tyan_CV.pdf){: .btn .btn-purple }
 
 ---
 
@@ -59,12 +58,11 @@ permalink: /
 
 ## Contacts
 
-[maxim@konkuk.ac.kr](mailto:maxim@konkuk.ac.kr)
-
-[중장비동 204호 (Heavy Equipment Building 204)](https://naver.me/xB4TNarT)
+- [maxim@konkuk.ac.kr](mailto:maxim@konkuk.ac.kr)
+- [Heavy Equipment Building (중장비동) 204](https://naver.me/xB4TNarT)
 
 ## Links
 
-- [ORCID](https://orcid.org/0000-0001-5076-7689): 0000-0001-5076-7689
-- [LinkedIN](https://www.linkedin.com/in/maximtyan/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=hmtQGt0AAAAJ)
+- [ORCID](https://orcid.org/0000-0001-5076-7689)
+- [LinkedIN](https://www.linkedin.com/in/maximtyan/)
