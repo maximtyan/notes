@@ -31,7 +31,8 @@ grand_parent: Notes
 
 `NACA 0012` – create a 4 digit NACA airfoil
 
-{: .important } In XFOIL, the X and Y coordinate delimiter is mutiple space symbols, not tabs
+{: .important }
+In XFOIL, the X and Y coordinate delimiter is mutiple space symbols, not tabs
 
 ## Analysis
 
