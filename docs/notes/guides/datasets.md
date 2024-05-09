@@ -21,4 +21,5 @@ design or other applications.
 ## Airfoils
 
 - [UIUC Airfoil Coordinates Database](https://m-selig.ae.illinois.edu/ads/coord_database.html)
+- [UIUC: Airfoil Information of Different Aircrafts](https://m-selig.ae.illinois.edu/ads/aircraft.html)
 - [Airfoil Data from the “Theory of Airfoil Sections” book](https://www.pdas.com/avd.html)
