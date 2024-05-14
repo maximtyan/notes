@@ -9,9 +9,7 @@ permalink: /
 
 # Maxim Tyan, 장막심
 
-- Assistant Professor of Aerospace Engineering
-- [Konkuk University, Seoul, Korea](http://www.konkuk.ac.kr/do/Index.do)
-- [Department of Aerospace Engineering](https://mae.konkuk.ac.kr/aeroeng/index.do)
+- Assistant Professor, [Department of Aerospace Engineering, Konkuk University](https://mae.konkuk.ac.kr/aeroeng/index.do)
 - [Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/) - NRF Center of Excellence (중점연구소)
 
 ---
