@@ -22,7 +22,7 @@ My research expertise mainly lies in Aircraft Multidisciplinary Design and Optim
 
 Currently, my team and I are dedicated to advancing future air mobility. Our work involves developing innovative concepts for electric and hybrid aircraft, crafting methodologies for initial sizing of aircraft with unconventional configurations, creating integrated analysis, design, and optimization frameworks, as well as developing flight simulation and digital twin software. In essence, we specialize in creating tools that facilitate the development of Advanced Air Mobility (AAM) aircraft, spanning from analyzing user requirements to the preliminary design stages.
 
-During my career, I have initiated and participated in over 20 international and domestic (Korean) projects with a total budget of over 25M USD.
+During my career, I have participated in over 20 international and domestic (Korean) projects with a total budget of over 25M USD.
 
 ---
 
