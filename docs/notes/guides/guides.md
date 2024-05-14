@@ -2,26 +2,38 @@
 layout: default
 title: Guides
 has_children: true
-nav_order: 2
+nav_order: 1
 parent: Notes
 permalink: /guides
 ---
 
 # Guides
 
-Collection of guidelines, manuals and other materials for various
+Collection of guidelines, manuals, and other materials for various
 software and services.
 
-[XFOIL](/docs/notes/guides/xfoil)
+[Overview](/docs/notes/guides/software)
 
-## AVL - aerodynamic analysis tool
+## Analysis Software
 
-- [guide](/docs/notes/guides/avl.pdf)
-- [sample files](/docs/notes/guides/avl-sample.zip)
+- [XFOIL - airfoil analysis](/docs/notes/guides/xfoil)
+- [AVL - Vortex Lattice Aerodynamic Analysis](/docs/notes/guides/avl)
+- [Friction](https://archive.aoe.vt.edu/mason/Mason_f/MRsoft.html#SkinFriction) a robust program for parasite drag estimation of subsonic aircraft
 
-## Skin Friction/Form Factor Drag estimation
+## Open Data Sets
 
-Program by Prof. Mason's lab from Virginia Tech. The program provides a
-robust method for parasite drag estimation of subsonic aircraft.
+Links to different free data sets that can be useful for aircraft
+design or other applications.
 
-- [code and manual](https://archive.aoe.vt.edu/mason/Mason_f/MRsoft.html#SkinFriction)
+### Propulsion
+
+- [Mejzlik Propellers](https://www.mejzlik.eu/technical-data)
+- [UIUC Propeller Data Site](https://m-selig.ae.illinois.edu/props/propDB.html)
+- [APC Propeller Data](https://www.apcprop.com/technical-information/performance-data/)
+- [Tyto Robotics motor and propeller database](https://database.tytorobotics.com/)
+
+### Airfoils
+
+- [UIUC Airfoil Coordinates Database](https://m-selig.ae.illinois.edu/ads/coord_database.html)
+- [UIUC: Airfoil Information of Different Aircrafts](https://m-selig.ae.illinois.edu/ads/aircraft.html)
+- [Airfoil Data from the “Theory of Airfoil Sections” book](https://www.pdas.com/avd.html)
