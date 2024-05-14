@@ -8,5 +8,5 @@ grand_parent: Notes
 
 # AVL
 
-- [guide](/docs/notes/guides/avl.pdf)
+- [guide pdf](/docs/notes/guides/avl.pdf)
 - [sample files](/docs/notes/guides/avl-sample.zip)

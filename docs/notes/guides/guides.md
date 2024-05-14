@@ -8,6 +8,7 @@ permalink: /guides
 ---
 
 # Guides
+{: no-toc}
 
 Collection of guidelines, manuals, and other materials for various
 software and services.
