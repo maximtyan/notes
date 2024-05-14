@@ -14,7 +14,7 @@ permalink: /
 
 ---
 
-## Welcome to my personal page!
+## Welcome to my personal page
 
 I am an aerospace engineer with over 15 years of experience in both academia and industry. I earned my PhD from the Department of Aerospace Information Engineering at Konkuk University in 2015 under the supervision of Professor Jae-Woo Lee.
 

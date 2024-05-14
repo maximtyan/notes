@@ -7,15 +7,6 @@ has_children: false
 permalink: /bio
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 ## Education
 
 - 2010-2015, **PhD** (Integrated MSc-PhD Course), **Konkuk University**, Department of Aerospace Information Engineering, Seoul, Korea
@@ -96,7 +87,7 @@ permalink: /bio
   - Research team leader
   - Researcher
 
-## Lecturing
+## Presentations
 
 ### Invited lectures, seminars and keynote presentations
 
