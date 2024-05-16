@@ -9,8 +9,8 @@ permalink: /
 
 # Maxim Tyan, 장막심
 
-- Assistant Professor, [Department of Aerospace Engineering, Konkuk University](https://mae.konkuk.ac.kr/aeroeng/index.do)
-- Senior Researcher, [Konkuk Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
+- [Assistant Professor, Department of Aerospace Engineering, Konkuk University](https://mae.konkuk.ac.kr/aeroeng/index.do)
+- [Senior Researcher, Konkuk Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
 
 ---
 
