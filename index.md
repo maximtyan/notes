@@ -16,13 +16,11 @@ permalink: /
 
 ## Welcome to my personal page
 
-I am an aerospace engineer with over 15 years of experience in both academia and industry. I earned my PhD from the Department of Aerospace Information Engineering at Konkuk University in 2015 under the supervision of Professor Jae-Woo Lee.
+I am an aerospace engineer with over 15 years of experience in both academia and industry. My expertise primarily lies in Aircraft Design and Development, covering areas such as systems engineering, multidisciplinary analysis, optimization, electric and hybrid propulsion systems, flight simulation, certification, and digital twin technologies.
 
-My research expertise mainly lies in Aircraft Multidisciplinary Design and Optimization, encompassing areas such as optimization, electric and hybrid propulsion systems, VTOL flight mechanics, flight simulation, and digital twin technologies.
+My team and I are dedicated to advancing research in Advanced Air Mobility (AAM). We develop innovative concepts for electric and hybrid aircraft, craft methodologies for the initial sizing of aircraft with unconventional configurations, create integrated analysis, design, and optimization frameworks, and develop flight simulation and digital twin software. Essentially, we specialize in creating tools that facilitate the development of AAM aircraft, from analyzing user requirements to the preliminary design stages.
 
-Currently, my team and I are dedicated to advancing future air mobility. Our work involves developing innovative concepts for electric and hybrid aircraft, crafting methodologies for initial sizing of aircraft with unconventional configurations, creating integrated analysis, design, and optimization frameworks, as well as developing flight simulation and digital twin software. In essence, we specialize in creating tools that facilitate the development of Advanced Air Mobility (AAM) aircraft, spanning from analyzing user requirements to the preliminary design stages.
-
-During my career, I have participated in over 20 international and domestic (Korean) projects with a total budget of over 25M USD.
+I hold a PhD from the Department of Aerospace Information Engineering at Konkuk University in Korea. Throughout my career, I have participated in over 20 international and domestic (Korean) projects, with a total budget exceeding 25 million USD.
 
 ---
 
