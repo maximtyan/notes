@@ -11,12 +11,12 @@ permalink: /teaching
 ## Undergraduate
 
 - Aerospace Capstone Design Project 1, 항공우주종합설계 1
-  - 2024 Spring, eVTOL-UAM Aircraft
-  - 2023 Spring, Regional Hybrid Hydrogen-Electric Aircraft
-  - 2021 Spring, eVTOL-UAM Aircraft
-  - TA: 2016 Spring, eVTOL-UAV
+  - 2024, eVTOL-UAM Aircraft
+  - 2023, Regional Hybrid Hydrogen-Electric Aircraft
+  - 2021, eVTOL-UAM Aircraft
+  - 2016[^1], Spring, eVTOL-UAV
 - Aerospace Configuration Design, 항공우주형상설계
-  - TA: 2012 Spring, 2012 Fall, 2015 Spring, 2020 Spring
+  - 2012[^1], 2012 Fall, 2015 Spring, 2020 Spring
 
 ## Graduate
 
@@ -33,3 +33,5 @@ permalink: /teaching
   - TA: 2015 Fall, eVTOL-UAV
 - System Design and Integration (시스템통합설계)
   - TA: 2016 Fall
+
+[^1]: Teaching Assistant

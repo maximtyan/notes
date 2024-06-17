@@ -11,8 +11,8 @@ permalink: /publications
 
 ## SCI / SCI(E) Journal Papers
 
-1. Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2015. “Improving Variable-Fidelity Modelling by Exploring Global Design Space and Radial Basis Function Networks for Aerofoil Design.” Engineering Optimization 47 (7): 885–908. <https://doi.org/10.1080/0305215X.2014.941290>.
-2. Tyan, Maxim, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Comprehensive Preliminary Sizing/Resizing Method for a Fixed Wing-VTOL Electric UAV.” Aerospace Science and Technology 71 (December): 30–41. <https://doi.org/10.1016/j.ast.2017.09.008>.
+1. Maxim Tyan, Nhu Van Nguyen, and Jae-Woo Lee. 2015. “Improving Variable-Fidelity Modelling by Exploring Global Design Space and Radial Basis Function Networks for Aerofoil Design.” Engineering Optimization 47 (7): 885–908. <https://doi.org/10.1080/0305215X.2014.941290>.
+2. Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Comprehensive Preliminary Sizing/Resizing Method for a Fixed Wing-VTOL Electric UAV.” Aerospace Science and Technology 71 (December): 30–41. <https://doi.org/10.1016/j.ast.2017.09.008>.
 3. Tyan, Maxim, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Database Adaptive Fuzzy Membership Function Generation for Possibility-Based Aircraft Design Optimization.” Journal of Aircraft 54 (1): 114–24. <https://doi.org/10.2514/1.C033833>.
 4. Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2017. “A Tailless UAV Multidisciplinary Design Optimization Using Global Variable Fidelity Modeling.” International Journal of Aeronautical and Space Sciences 18 (4): 662–74. <http://dx.doi.org/10.5139/IJASS.2017.18.4.662>.
 5. Tyan, Maxim, and Jae-Woo Lee. 2019. “Efficient Multi-Response Adaptive Sampling Algorithm for Construction of Variable-Fidelity Aerodynamic Tables.” Chinese Journal of Aeronautics 32 (3): 547–58. <https://doi.org/10.1016/j.cja.2018.12.012>.
