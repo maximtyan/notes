@@ -8,4 +8,8 @@ parent: Notes
 
 # Constants
 
-- $g$ Graviational acceleration at the earth surface `9.80665` m/s
+- Graviational acceleration at the earth surface
+
+$$g = 9.80665f$$ m/s
+
+`9.80665`
