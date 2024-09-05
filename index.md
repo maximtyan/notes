@@ -9,8 +9,7 @@ permalink: /
 
 # Maxim Tyan, 장막심
 
-- [Assistant Professor, Department of Aerospace Engineering, Konkuk University](https://mae.konkuk.ac.kr/aeroeng/index.do)
-- [Senior Researcher, Konkuk Aerospace Design Airworthiness Institute](https://sites.google.com/view/kadalab/)
+- [Associate Professor, Department of Mechanical Engineering, New Uzbekistan University](https://newuu.uz/)
 
 ---
 
@@ -26,8 +25,8 @@ I hold a PhD from the Department of Aerospace Information Engineering at Konkuk 
 
 ## Contacts
 
-- [maxim@konkuk.ac.kr](mailto:maxim@konkuk.ac.kr)
-- [Heavy Equipment Building 204 (중장비동 204호)](https://naver.me/xB4TNarT)
+- [m.tyan@newuu.uz](mailto:m.tyan@newuu.uz)
+- [U.C.A. Room 108](https://yandex.uz/maps/-/CDwwUK69)
 
 ## Links
 
