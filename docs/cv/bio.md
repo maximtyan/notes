@@ -15,11 +15,12 @@ permalink: /bio
 
 ## Work Experience
 
-- Apr 2024 - Present: **Assistant Professor, Konkuk University**, Seoul, Korea
+- Aug 2024 - Present: **Associate Professor, New Uzbekistan University**, Tashkent, Uzbekistan
+- Apr 2024 - Aug 2024: **Assistant Professor, Konkuk University**, Seoul, Korea
 - Sep 2017 - Mar 2024: **Research Professor, Konkuk University**, Seoul, Korea
 - Mar 2010 - Aug 2017: **Senior Researcher, Aerospace Design Airworthiness
   Institute**, Seoul, Korea
-- Jan 2007 - Feb 2010: **Manufacturing Engineer, Engineering center "Muhandis-servis" Ltd.**, Tashkent, Uzbekistan
+- Jan 2007 - Feb 2010: **NC Manufacturing Engineer, Engineering center "Muhandis-servis" Ltd.**, Tashkent, Uzbekistan
 
 ## Language Skills
 
