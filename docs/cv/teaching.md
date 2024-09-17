@@ -24,7 +24,7 @@ permalink: /teaching
   - 2019
   - 2013\*, 2015\*
 - Optimal Design Advanced Course (최적설계특론)
-  - 2018(TA)
+  - 2018\*
 - Aircraft Design Project
   - 2022: Regional Electric Aircraft
   - 2020\*: Hydrogen Fuel Cell Powered eVTOL-UAV
