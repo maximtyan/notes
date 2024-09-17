@@ -16,23 +16,23 @@ permalink: /teaching
   - 2021: eVTOL-UAM Aircraft
   - 2016*: eVTOL-UAV
 - Aerospace Configuration Design, 항공우주형상설계
-  - 2012*, 2012*, 2015*, 2020*
+  - 2012\*, 2012\*, 2015\*, 2020\*
 
 ## Graduate
 
 - Optimal Design Basics (최적설계기초)
   - 2019
-  - 2013*, 2015*
+  - 2013\*, 2015\*
 - Optimal Design Advanced Course (최적설계특론)
   - 2018(TA)
 - Aircraft Design Project
   - 2022: Regional Electric Aircraft
-  - 2020*: Hydrogen Fuel Cell Powered eVTOL-UAV
-  - 2019*: Hydrogen Fuel Cell Powered eVTOL-UAV
-  - 2018*: UAV Flight Simulation
+  - 2020\*: Hydrogen Fuel Cell Powered eVTOL-UAV
+  - 2019\*: Hydrogen Fuel Cell Powered eVTOL-UAV
+  - 2018\*: UAV Flight Simulation
   - 2015: eVTOL-UAV
 - System Design and Integration (시스템통합설계)
-  - 2016*
+  - 2016\*
 
 ---
 \* Teaching Assistant
