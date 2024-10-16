@@ -92,16 +92,16 @@ permalink: /bio
 
 ### Invited lectures, seminars and keynote presentations
 
-1. "Advanced air mobility. Concepts, design challenges and future operations", SRM University, India, 2023
+1. "Advanced air mobility. Concepts, Design Challenges and Future Operations", SRM University, India, 2023
 2. "Digital Twin. Main Principles and Concepts. Example of UAM Operational DT", SRM University, India, 2023
-3. "Advanced optimization methods for aircraft design", Toronto Metropolitan University, Canada, 2023
+3. "Advanced Optimization Methods for Aircraft Design", Toronto Metropolitan University (Ryerson University), Canada, 2023
 4. "How to write a good journal paper", Konkuk University, Korea, 2023
 5. "Introduction to UAV Design", Tashkent State Technical University, Uzbekistan, 2021
 6. "Applications of Multidisciplinary Design Optimization for Aircraft Design", CSIR National Aerospace Laboratory, India, 2019
 7. "Applications of Multidisciplinary Design Optimization for Aircraft Design", Ryerson University, Canada, 2019
 8. "Design under uncertainties. Non-probabilistic approach", Konkuk University, Korea, 2018
 
-### Series of seminars (3-5 presentations)
+### Series of seminars (3-5 sessions)
 
 1. "Multidisciplinary analysis and design of an aircraft", 2023
 2. "Surrogate modeling. Advanced methods and applications", 2020
