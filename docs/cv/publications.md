@@ -13,7 +13,7 @@ permalink: /publications
 
 1. Maxim Tyan, Nhu Van Nguyen, and Jae-Woo Lee. 2015. “Improving Variable-Fidelity Modelling by Exploring Global Design Space and Radial Basis Function Networks for Aerofoil Design.” Engineering Optimization 47 (7): 885–908. <https://doi.org/10.1080/0305215X.2014.941290>.
 2. Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Comprehensive Preliminary Sizing/Resizing Method for a Fixed Wing-VTOL Electric UAV.” Aerospace Science and Technology 71 (December): 30–41. <https://doi.org/10.1016/j.ast.2017.09.008>.
-[PDF](../docs/files/Tyan2017-Comprehensive_preliminary_sizing.pdf){: .btn .btn-green }
+   - [PDF](../docs/files/Tyan2017-Comprehensive_preliminary_sizing.pdf)
 3. Tyan, Maxim, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Database Adaptive Fuzzy Membership Function Generation for Possibility-Based Aircraft Design Optimization.” Journal of Aircraft 54 (1): 114–24. <https://doi.org/10.2514/1.C033833>.
 4. Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2017. “A Tailless UAV Multidisciplinary Design Optimization Using Global Variable Fidelity Modeling.” International Journal of Aeronautical and Space Sciences 18 (4): 662–74. <http://dx.doi.org/10.5139/IJASS.2017.18.4.662>.
 5. Tyan, Maxim, and Jae-Woo Lee. 2019. “Efficient Multi-Response Adaptive Sampling Algorithm for Construction of Variable-Fidelity Aerodynamic Tables.” Chinese Journal of Aeronautics 32 (3): 547–58. <https://doi.org/10.1016/j.cja.2018.12.012>.
@@ -37,7 +37,7 @@ permalink: /publications
 23. Lee, Jae Lyun, Maxim Tyan, Do Youn Kwon, Jae-Woo Lee. 2023. "Enhanced Calibration and Performance Prediction Method for Entire Propulsion System of eVTOL UAV", IEEE Transactions on Transportation Electrification. <https://doi.org/10.1109/TTE.2023.3326382>
 24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
 25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
-[PDF](../docs/files/Alam2024-Integrated_Propulsion_System_Analysis.pdf){: .btn .btn-green }
+ - [PDF](../docs/files/Alam2024-Integrated_Propulsion_System_Analysis.pdf)
 
 
 ## Patents
