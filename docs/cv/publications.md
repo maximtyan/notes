@@ -36,6 +36,7 @@ permalink: /publications
 23. Lee, Jae Lyun, Maxim Tyan, Do Youn Kwon, Jae-Woo Lee. 2023. "Enhanced Calibration and Performance Prediction Method for Entire Propulsion System of eVTOL UAV", IEEE Transactions on Transportation Electrification. <https://doi.org/10.1109/TTE.2023.3326382>
 24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
 25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
+[pdf](../files/Alam2024-Integrated_Propulsion_System_Analysis_Framework_for_Designing_Advanced_Air)
 
 ## Patents
 
