@@ -13,13 +13,14 @@ permalink: /publications
 
 1. Maxim Tyan, Nhu Van Nguyen, and Jae-Woo Lee. 2015. “Improving Variable-Fidelity Modelling by Exploring Global Design Space and Radial Basis Function Networks for Aerofoil Design.” Engineering Optimization 47 (7): 885–908. <https://doi.org/10.1080/0305215X.2014.941290>.
 2. Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Comprehensive Preliminary Sizing/Resizing Method for a Fixed Wing-VTOL Electric UAV.” Aerospace Science and Technology 71 (December): 30–41. <https://doi.org/10.1016/j.ast.2017.09.008>.
+[PDF](../docs/files/Tyan2017-Comprehensive_preliminary_sizing.pdf){: .btn .btn-green }
 3. Tyan, Maxim, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2017. “Database Adaptive Fuzzy Membership Function Generation for Possibility-Based Aircraft Design Optimization.” Journal of Aircraft 54 (1): 114–24. <https://doi.org/10.2514/1.C033833>.
 4. Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2017. “A Tailless UAV Multidisciplinary Design Optimization Using Global Variable Fidelity Modeling.” International Journal of Aeronautical and Space Sciences 18 (4): 662–74. <http://dx.doi.org/10.5139/IJASS.2017.18.4.662>.
 5. Tyan, Maxim, and Jae-Woo Lee. 2019. “Efficient Multi-Response Adaptive Sampling Algorithm for Construction of Variable-Fidelity Aerodynamic Tables.” Chinese Journal of Aeronautics 32 (3): 547–58. <https://doi.org/10.1016/j.cja.2018.12.012>.
 6. Tyan, Maxim, Jungwon Yoon, Nhu Van Nguyen, Jae-Woo Lee, and Sangho Kim. 2019. “Design-Airworthiness Integration Method for General Aviation Aircraft during Early Development Stage.” Aircraft Engineering and Aerospace Technology 91 (7): 1067–76. <https://doi.org/10.1108/AEAT-05-2018-0143>.
 7. Tyan, Maxim, Cheol Kyun Choi, Tuan Anh Nguyen, and Jae-Woo Lee. 2022. “Rapid Airfoil Inverse Design Method with a Deep Neural Network and Hyperparameter Selection.” International Journal of Aeronautical and Space Sciences, September 2022. <https://doi.org/10.1007/s42405-022-00507-x>.
 8. Nguyen, Nhu-Van, Maxim Tyan, Jae-Woo Lee, and Yung-Hwan Byun. 2014. “Investigations on Missile Configuration Aerodynamic Characteristics for Design Optimization.” Transactions of the Japan Society for Aeronautical and Space Sciences 57 (4): 210–18.
-9. Nguyen, Nhu Van, Jae-Woo Lee, Maxim Tyan, and Daeyeon Lee. 2015. “Possibility-Based Multidisciplinary Optimisation for Electric-Powered Unmanned Aerial Vehicle Design.” The Aeronautical Journal 119 (1221): 1397–1414.
+9.  Nguyen, Nhu Van, Jae-Woo Lee, Maxim Tyan, and Daeyeon Lee. 2015. “Possibility-Based Multidisciplinary Optimisation for Electric-Powered Unmanned Aerial Vehicle Design.” The Aeronautical Journal 119 (1221): 1397–1414.
 10. Nguyen, Nhu Van, Jae-Woo Lee, Maxim Tyan, and Sangho Kim. 2015. “Repetitively Enhanced Neural Networks Method for Complex Engineering Design Optimisation Problems.” The Aeronautical Journal 119 (1220): 1253–70. <https://doi.org/10.1017/S0001924000011234>.
 11. Nguyen, Nhu Van, Maxim Tyan, and Jae-Woo Lee. 2015. “A Modified Variable Complexity Modeling for Efficient Multidisciplinary Aircraft Conceptual Design.” Optimization and Engineering 16 (2): 483–505. <https://doi.org/10.1007/s11081-014-9273-7>.
 12. Lee, Daeyeon, Nhu Van Nguyen, Maxim Tyan, Heun Geun Chun, Sangho Kim, and Jae-Woo Lee. 2016. “Enhanced Multi-Fidelity Model for Flight Simulation Using Global Exploration and the Kriging Method.” Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering 231 (4): 606–20. <https://doi.org/10.1177/0954410016641441>.
@@ -35,7 +36,9 @@ permalink: /publications
 22. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, Chiho Lee, Le Viet Thang Nguyen, Jae-Woo Lee. 2023. "Adaptive data fusion framework for modeling of non-uniform aerodynamic data", Chinese Journal of Aeronautics 36(7): 316-336. <https://www.sciencedirect.com/science/article/pii/S1000936123001644>
 23. Lee, Jae Lyun, Maxim Tyan, Do Youn Kwon, Jae-Woo Lee. 2023. "Enhanced Calibration and Performance Prediction Method for Entire Propulsion System of eVTOL UAV", IEEE Transactions on Transportation Electrification. <https://doi.org/10.1109/TTE.2023.3326382>
 24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
-25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. [“Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.”](../docs/files/Alam2024-Integrated_Propulsion_System_Analysis.pdf) IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
+25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
+[PDF](../docs/files/Alam2024-Integrated_Propulsion_System_Analysis.pdf){: .btn .btn-green }
+
 
 ## Patents
 
