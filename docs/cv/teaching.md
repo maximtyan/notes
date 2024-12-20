@@ -29,17 +29,17 @@ permalink: /teaching
 
 ### Graduate
 
-- Optimal Design Basics (최적설계기초)
-  - 2019
-  - 2013\*, 2015\*
-- Optimal Design Advanced Course (최적설계특론)
-  - 2018
 - Aircraft Design Project
   - 2022: Regional Electric Aircraft
   - 2020\*: Hydrogen Fuel Cell Powered eVTOL-UAV
   - 2019\*: Hydrogen Fuel Cell Powered eVTOL-UAV
   - 2018\*: UAV Flight Simulator Development
   - 2015: eVTOL-UAV
+- Optimal Design Basics (최적설계기초)
+  - 2019
+  - 2013\*, 2015\*
+- Optimal Design Advanced Course (최적설계특론)
+  - 2018
 - System Design and Integration (시스템통합설계)
   - 2016\*
 
