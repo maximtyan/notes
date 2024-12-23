@@ -39,7 +39,6 @@ permalink: /publications
 25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
  - [PDF](../docs/files/Alam2024-Integrated_Propulsion_System_Analysis.pdf)
 
-
 ## Patents
 
 1. Lee, Jae-Woo, Maxim Tyan, and Nhu Van Nguyen. 2017. 강건 최적 설계 시스템, 방법 및 컴퓨터 판독 가능한 기록매체. KR101783015B1, filed May 25, 2016, and issued October 23, 2017. <https://patents.google.com/patent/KR101783015B1>

@@ -9,18 +9,28 @@ permalink: /bio
 
 ## Education
 
-- 2010-2015, **PhD** (Integrated MSc-PhD Course), **Konkuk University**, Department of Aerospace Information Engineering, Seoul, Korea
-- 2005-2009, **BSc**, **Tashkent State Technical University**, Department
-  of Aerospace Engineering, Tashkent, Uzbekistan
+- 2010-2015, **PhD** (Integrated MSc-PhD), **Konkuk University**,
+  Department of Aerospace Information Engineering, Seoul, Korea,
+  Advisor Prof. Jae-Woo Lee (이재우)
+- 2005-2009, **BSc**, **Tashkent State Technical University**,
+  Department of Aerospace Engineering, Tashkent, Uzbekistan,
+  Advisor Prof. Yermakova L. S. (Ермакова Л.С.)
 
 ## Work Experience
+
+### Associtate Professor
+
+Dept of Mechanical Engineering, New Uzbekistan Unviersity, Tashkent, Uzbekistan
+
+Aug 2024 - Present
+
+### Assistant Professor
 
 - Aug 2024 - Present: **Associate Professor, New Uzbekistan University**, Tashkent, Uzbekistan
 - Apr 2024 - Aug 2024: **Assistant Professor, Konkuk University**, Seoul, Korea
 - Sep 2017 - Mar 2024: **Research Professor, Konkuk University**, Seoul, Korea
-- Mar 2010 - Aug 2017: **Senior Researcher, Aerospace Design Airworthiness
-  Institute**, Seoul, Korea
-- Jan 2007 - Feb 2010: **NC Manufacturing Engineer, Engineering center "Muhandis-servis" Ltd.**, Tashkent, Uzbekistan
+- Mar 2010 - Aug 2017: **Senior Researcher, Aerospace Design Airworthiness Institute**, Seoul, Korea
+- Jan 2007 - Feb 2010: **NC Milling Manufacturing Engineer, Engineering center "Muhandis-servis" Ltd.**, Tashkent, Uzbekistan
 
 ## Language Skills
 
