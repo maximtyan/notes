@@ -17,16 +17,6 @@ permalink: /teaching
 
 ## Konkuk University, 건국대학교
 
-### Undergraduate
-
-- Aerospace Capstone Design Project 1 (항공우주종합설계 1)
-  - 2024: eVTOL-UAM Aircraft
-  - 2023: Regional Hybrid Hydrogen-Electric Aircraft
-  - 2021: eVTOL-UAM Aircraft
-  - 2016*: eVTOL-UAV
-- Aerospace Configuration Design, 항공우주형상설계
-  - 2012\*, 2012\*, 2015\*, 2020\*
-
 ### Graduate
 
 - Aircraft Design Project
@@ -42,6 +32,16 @@ permalink: /teaching
   - 2018
 - System Design and Integration (시스템통합설계)
   - 2016\*
+
+### Undergraduate
+
+- Aerospace Capstone Design Project 1 (항공우주종합설계 1)
+  - 2024: eVTOL-UAM Aircraft
+  - 2023: Regional Hybrid Hydrogen-Electric Aircraft
+  - 2021: eVTOL-UAM Aircraft
+  - 2016*: eVTOL-UAV
+- Aerospace Configuration Design, 항공우주형상설계
+  - 2012\*, 2012\*, 2015\*, 2020\*
 
 ---
 \* Teaching Assistant

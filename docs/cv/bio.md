@@ -18,14 +18,6 @@ permalink: /bio
 
 ## Work Experience
 
-### Associtate Professor
-
-Dept of Mechanical Engineering, New Uzbekistan Unviersity, Tashkent, Uzbekistan
-
-Aug 2024 - Present
-
-### Assistant Professor
-
 - Aug 2024 - Present: **Associate Professor, New Uzbekistan University**, Tashkent, Uzbekistan
 - Apr 2024 - Aug 2024: **Assistant Professor, Konkuk University**, Seoul, Korea
 - Sep 2017 - Mar 2024: **Research Professor, Konkuk University**, Seoul, Korea
