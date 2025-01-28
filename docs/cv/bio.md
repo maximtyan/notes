@@ -9,7 +9,7 @@ permalink: /bio
 
 ## Education
 
-- 2010-2015, **PhD** (Integrated MSc-PhD), **Konkuk University**,
+- 2010-2015, **PhD**, **Konkuk University**,
   Department of Aerospace Information Engineering, Seoul, Korea,
   Advisor Prof. Jae-Woo Lee (이재우)
 - 2005-2009, **BSc**, **Tashkent State Technical University**,

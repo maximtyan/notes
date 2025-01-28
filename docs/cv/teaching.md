@@ -11,9 +11,13 @@ permalink: /teaching
 ### Undergraduate
 
 - MENG310: Computational Solid and Fluid Mechanics
-  - 2024
+  - Fall 2024
 - MENG120: Engineering in Society
-  - 2024
+  - Fall 2024
+- MENG331: Automatic Control
+  - Spring 2025
+- MENG401: Mechanics 3 (Dynamics)
+  - Spring 2025
 
 ## Konkuk University, 건국대학교
 
