@@ -151,3 +151,6 @@ permalink: /publications
 88. Kim, Min Ji, Maxim Tyan, Jae-Woo Lee. 2024. "A New Logical Development Process for the Initial Concept of Eco-Friendly Next-Generation RAM Aircraft". Spring Conference of The Korean Society for Aeronautical and Space Sciences. Jeju Korea.
 89. Kwag, Dong Oh, Zin Win Thu, Maxim Tyan, Jeong Woo Suk, Jae-Woo Lee. 2024. "Study on the Selection of Reliability-Based Eco-Friendly AAM Propulsion System Architecture Considering Failure Scenario". Spring Conference of The Korean Society for Aeronautical and Space Sciences. Jeju Korea.
 90. LV Thang Nguyen, Mohammad Irfan Alam, Maxim Tyan, Jae-Woo Lee. 2024. "Comprehensive Modeling of Electric Propulsion System for High-fidelity eVTOL-AAM Flight Simulation". Spring Conference of The Korean Society for Aeronautical and Space Sciences. Jeju Korea.
+91. Kim, Min Ji, Maxim Tyan, and Jaewoo Lee. 2025. “Logical Development Framework for the Initial Concept of Eco-Friendly Advanced Air Mobility Aircraft.” In AIAA SCITECH 2025 Forum. AIAA SciTech Forum. American Institute of Aeronautics and Astronautics. https://doi.org/10.2514/6.2025-2035.
+
+
